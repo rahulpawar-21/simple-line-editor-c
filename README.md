@@ -5,6 +5,8 @@ A command-line line editor developed for the **Portfolio Building — Studio Cou
 ## Team Members
 
 1. Rahul
+2. Rahulgouda
+3. sanjay
 
 ## Features Implemented
 
